@@ -1,0 +1,32 @@
+{
+  "name": "create-react-app-plus",
+  "version": "1.0.0",
+  "description": "boilerplate for react-ts-express",
+  "main": "./bin/index.js",
+  "bin": {
+    "create-react-app-plus":"./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpalyov/create-react-app-plus.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "express",
+    "next"
+  ],
+  "author": "Dimitar Palyov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpalyov/create-react-app-plus/issues"
+  },
+  "homepage": "https://github.com/dpalyov/create-react-app-plus#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "shelljs": "^0.8.3"
+  }
+}
